@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<about>
+    <me.jfenn.attribouter.wedges.AppWedge>
+        <me.jfenn.attribouter.wedges.LinkWedge
+            hidden="true"
+            id="playstore" />
+        <me.jfenn.attribouter.wedges.link.LinkWedge
+            name="^Git Repo"
+            id="github" />
+    </me.jfenn.attribouter.wedges.AppWedge>
+    <me.jfenn.attribouter.wedges.LicensesWedge repo="fennifith/ColorPickerDialog" />
+</about>

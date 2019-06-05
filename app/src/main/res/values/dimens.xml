@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <dimen name="bottom_sheet_corner_radius">16dp</dimen>
+    <dimen name="bottom_sheet_top_padding">16dp</dimen>
+    <dimen name="bottom_sheet_padding">16dp</dimen>
+
+    <dimen name="textview_padding">16dp</dimen>
+
+    <dimen name="text_drawable_left_padding">24dp</dimen>
+
+    <dimen name="account_image_size">40dp</dimen>
+    <dimen name="account_items_margin">24dp</dimen>
+
+    <dimen name="quiz_option_corner_radius">5dp</dimen>
+    <dimen name="quiz_option_padding">16dp</dimen>
+
+    <dimen name="round_corner_radius">50dp</dimen>
+
+</resources>
